@@ -54,6 +54,8 @@ Adjoint State:
 <img width="350" height="163" alt="image" src="https://github.com/user-attachments/assets/dab2cdac-fc7f-4944-bd9f-9b155f2623b0" />
 
 
-Adjoint method creates a new state, an auxillary differential equation that connects the dynamics of the loss in respect to the state of the sytem later we can run the ODE backwards one step at a time to get the gradiants of the loss in respect to state of the system and also the gradient of the loss in respect to the parameters of the system.
-This adjoint sensitivity method on the backward pass gives constant memory propagation, because it forgets the previous states.
+
+
+*Adjoint method creates a new state, an auxillary differential equation that connects the dynamics of the loss in respect to the state of the sytem later we can run the ODE backwards one step at a time to get the gradiants of the loss in respect to state of the system and also the gradient of the loss in respect to the parameters of the system.
+This adjoint sensitivity method on the backward pass gives constant memory propagation, because it forgets the previous states.*
 
