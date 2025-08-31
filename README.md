@@ -18,5 +18,7 @@ MY NOTES:
 ---
 
 **ODE:**
+
+
 <img width="603" height="174" alt="image" src="https://github.com/user-attachments/assets/1f7ad36a-be89-497a-a015-1f9c95352413" />
 
