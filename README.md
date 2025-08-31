@@ -23,9 +23,17 @@ MY NOTES:
 <img width="350" height="130" alt="image" src="https://github.com/user-attachments/assets/1f7ad36a-be89-497a-a015-1f9c95352413" />
 
 
-**Forward pass:**
+**Forward Pass:**
 
 
 <img width="350" height="60" alt="image" src="https://github.com/user-attachments/assets/29eb8b6d-e79d-4c9f-9457-aaf0e95dd459" />
+
+
+**Backward Pass:**
+1) LOSS FUNCTION:  Adjoint Sensitivity Method
+
+   
+<img width="350" height="86" alt="image" src="https://github.com/user-attachments/assets/328d9c4c-c946-4cf1-a931-934b3be3493d" />
+
 
 
