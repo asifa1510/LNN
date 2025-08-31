@@ -4,4 +4,4 @@
 **Understandings**
 
 
-🔹 *Can adapt even with change / perturbation in input.*
+*Can adapt even with change / perturbation in input.*
