@@ -30,7 +30,10 @@ MY NOTES:
 
 
 **Backward Pass:**
-1) **LOSS FUNCTION:**  *Adjoint Sensitivity Method*
+1) **LOSS FUNCTION:**
+
+ 
+ *Adjoint Sensitivity Method*
 
    
 <img width="350" height="86" alt="image" src="https://github.com/user-attachments/assets/328d9c4c-c946-4cf1-a931-934b3be3493d" />
