@@ -1,3 +1,3 @@
 **LNN**
 --
-*My findings:*
+*Understandings:*
