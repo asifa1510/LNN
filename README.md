@@ -12,6 +12,9 @@ MY NOTES:
 1. *Can adapt even with changes / perturbations in input.*  
 2. *Requires fewer parameters while remaining interpretable.*  
 3. *Well-suited for robotics, autonomous driving* (**RECEIVES CAMERA INPUT GENERATES STEERING ANGLES**), *and time-series prediction.*
+4. *achieved this by using fewer but more expressive neurons—often as few as 19 for complex tasks like autonomous driving*
+
+   > bio- inspired from small organisms like the nematode worm C. elegans, which has only 302 neurons but generates surprisingly complex behaviors
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/5c9dabf5-13a4-4083-87dc-71dd1c1a3827" />
 
