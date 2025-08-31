@@ -26,6 +26,6 @@ MY NOTES:
 **Forward pass:**
 
 
-<img width="300" height="40" alt="image" src="https://github.com/user-attachments/assets/29eb8b6d-e79d-4c9f-9457-aaf0e95dd459" />
+<img width="350" height="60" alt="image" src="https://github.com/user-attachments/assets/29eb8b6d-e79d-4c9f-9457-aaf0e95dd459" />
 
 
