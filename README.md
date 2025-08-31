@@ -1,5 +1,6 @@
-**LNN**
---
-**Understandings:**
-*can adapt even with change / perturbation in input.*
- 
+#  LNN
+
+---
+
+##  Understandings
+🔹 *Can adapt even with change / perturbation in input.*
