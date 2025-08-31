@@ -8,7 +8,7 @@ MY NOTES:
 
 ---
 
-### ✅ Key Points
+**Key Points**
 1. *Can adapt even with changes / perturbations in input.*  
 2. *Requires fewer parameters while remaining interpretable.*  
 3. *Well-suited for robotics, autonomous driving, and time-series prediction.*  
