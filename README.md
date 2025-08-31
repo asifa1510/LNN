@@ -12,3 +12,5 @@ MY NOTES:
 1. *Can adapt even with changes / perturbations in input.*  
 2. *Requires fewer parameters while remaining interpretable.*  
 3. *Well-suited for robotics, autonomous driving* (**RECEIVES CAMERA INPUT GENERATES STEERING ANGLES**), *and time-series prediction.*
+
+<img width="1045" height="669" alt="image" src="https://github.com/user-attachments/assets/463fdb66-1eae-48b8-87ed-4576528b3109" />
