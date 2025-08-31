@@ -13,4 +13,4 @@ MY NOTES:
 2. *Requires fewer parameters while remaining interpretable.*  
 3. *Well-suited for robotics, autonomous driving* (**RECEIVES CAMERA INPUT GENERATES STEERING ANGLES**), *and time-series prediction.*
 
-<img width="1045" height="669" alt="image" src="https://github.com/user-attachments/assets/463fdb66-1eae-48b8-87ed-4576528b3109" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/5c9dabf5-13a4-4083-87dc-71dd1c1a3827" />
