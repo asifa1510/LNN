@@ -77,4 +77,31 @@ Backpropagation through time
 **LNN implementation:**
 
 Refer:
-[**Liquid Time-Constant Networks**]([https://ieeexplore.ieee.org/document/11085355](https://cdn.aaai.org/ojs/16936/16936-13-20430-1-2-20210518.pdf?))
+[Liquid Time-Constant Networks](https://cdn.aaai.org/ojs/16936/16936-13-20430-1-2-20210518.pdf)
+
+
+
+<img width="791" height="254" alt="image" src="https://github.com/user-attachments/assets/af53fe82-87dd-4328-997f-14a89f63d5cc" />
+
+
+<img width="672" height="88" alt="image" src="https://github.com/user-attachments/assets/37d80b38-1380-4a12-bcd5-44f2225afdc5" />
+
+
+<img width="577" height="133" alt="image" src="https://github.com/user-attachments/assets/56d7354a-484f-4aed-ac64-da82114c509e" />
+
+
+<img width="783" height="266" alt="image" src="https://github.com/user-attachments/assets/a05991d2-df72-4676-a992-0af97766ec4f" />
+
+
+<img width="771" height="216" alt="image" src="https://github.com/user-attachments/assets/b511c69c-a6b1-452c-bdfb-c27cfdcd5f71" />
+
+
+<img width="699" height="275" alt="image" src="https://github.com/user-attachments/assets/66858fde-ddf6-4d18-a9ab-ea0b1358d50f" />
+
+
+<img width="461" height="78" alt="image" src="https://github.com/user-attachments/assets/cf878709-935e-41c8-ae03-e95e3934e1c1" />
+
+
+<img width="551" height="124" alt="image" src="https://github.com/user-attachments/assets/e440dcf1-9452-43a3-8a30-a4166aa5c636" />
+
+
