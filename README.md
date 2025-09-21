@@ -1,4 +1,4 @@
- **LNN**
+<img width="752" height="746" alt="image" src="https://github.com/user-attachments/assets/7e459458-9de7-425a-92af-f4ad02451705" /> **LNN**
 ---
 MY NOTES:   
      
@@ -20,9 +20,8 @@ MY NOTES:
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/5c9dabf5-13a4-4083-87dc-71dd1c1a3827" />
 
 ---
-**IMPLEMENTATION:**
 
-
+**Neural ODE Training Process**
 
 **ODE:**
 
