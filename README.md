@@ -71,3 +71,10 @@ Backpropagation through time
 
 <img width="350" height="380" alt="image" src="https://github.com/user-attachments/assets/c38dfb15-c6e3-4605-acb0-51576460201a" />
 
+
+
+-----
+**LNN implementation:**
+
+Refer:
+[**Liquid Time-Constant Networks**]([https://ieeexplore.ieee.org/document/11085355](https://cdn.aaai.org/ojs/16936/16936-13-20430-1-2-20210518.pdf?))
