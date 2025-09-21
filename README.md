@@ -1,4 +1,4 @@
-<img width="752" height="746" alt="image" src="https://github.com/user-attachments/assets/7e459458-9de7-425a-92af-f4ad02451705" /> **LNN**
+LNN
 ---
 MY NOTES:   
      
